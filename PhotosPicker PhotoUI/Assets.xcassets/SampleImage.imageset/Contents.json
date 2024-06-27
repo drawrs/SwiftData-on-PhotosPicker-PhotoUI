@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Photo_of_Labrador_in_the_style_of_Vermeer.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
